@@ -25,7 +25,7 @@ public class Objective4Lab1{
 
 		System.out.println("What is your favorite song?");
 		favoriteSong = keyboard.nextLine();
-	    String fullname = fname +" " + lname;
+	        String fullname = fname +" " + lname;
 
 
 		System.out.println("My name is " + fullname);
